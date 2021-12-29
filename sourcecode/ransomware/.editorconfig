@@ -1,4 +1,2 @@
 ﻿[*.cs]
-
-# CS0006: Не удалось найти файл метаданных "..\..\..\Documents\Windows.Foundation.UniversalApiContract.dll".
 dotnet_diagnostic.CS0006.severity = none
