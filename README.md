@@ -1,6 +1,5 @@
 # HappyNewYear2022Ransomware
-<font color=#37202B> Hello, This is My Ransomware "Happy New Year 2022"</font>
-
+<font color=#37202B>Hello, This is My Ransomware "Happy New Year 2022"</font>
 **Written in C#**
 
 **What does this ransomware do**:
