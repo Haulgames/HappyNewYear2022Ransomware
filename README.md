@@ -26,3 +26,5 @@ License:
 
 ## Activities
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Haulgames/HappyNewYear2022Ransomware?color=aqua&logo=github&logoColor=red&style=plastic)
+
+![GitHub watchers](https://img.shields.io/github/watchers/Haulgames/HappyNewYear2022Ransomware?color=red&style=flat-square)
