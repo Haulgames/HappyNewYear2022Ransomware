@@ -1,6 +1,8 @@
 # HappyNewYear2022Ransomware
 Hello, This is My Ransomware "Happy New Year 2022"
 
+License: ![GitHub](https://img.shields.io/github/license/Haulgames/HappyNewYear2022Ransomware?style=social)
+
 **Written in C#**
 
 **What does this ransomware do**:
