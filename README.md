@@ -16,3 +16,9 @@ Hello, This is My Ransomware "Happy New Year 2022"
 
 ## Number of Downloads This Ransomware 
 ![GitHub release](https://img.shields.io/github/downloads/Haulgames/HappyNewYear2022Ransomware/release/total?color=red&label=downloads&logo=red&logoColor=12345)
+
+### Language, which ransomware is written
+![top lang](https://img.shields.io/github/languages/top/Haulgames/HappyNewYear2022Ransomware?style=flat-square)
+
+## Activities
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Haulgames/HappyNewYear2022Ransomware?color=aqua&logo=github&logoColor=red&style=plastic)
