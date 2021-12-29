@@ -15,4 +15,4 @@ Hello, This is My Ransomware "Happy New Year 2022"
 [DonationAlerts](https://www.donationalerts.com/r/glebyoutuber)
 
 ## Number of Downloads This Ransomware 
-![GitHub release](https://img.shields.io/github/downloads/Haulgames/HappyNewYear2022Ransomware/release/total?color=red&label=download&logo=red&logoColor=12345)
+![GitHub release](https://img.shields.io/github/downloads/Haulgames/HappyNewYear2022Ransomware/release/total?color=red&label=downloads&logo=red&logoColor=12345)
